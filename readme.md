@@ -36,7 +36,7 @@ cd <nombre-del-repo>
 ```
 
 > El nombre del directorio clonado es el nombre de tu repo en GitHub Classroom (ej: `lab-github-juan-perez`), no necesariamente `lab-github`.
-
+.
 Verificá el estado inicial:
 
 ```bash
